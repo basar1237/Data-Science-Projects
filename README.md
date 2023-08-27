@@ -1,5 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg-c.udemycdn.com%2Fcourse%2F750x422%2F2095410_943c_2.jpg&tbnid=CDHaFbs6Fet99M&vet=12ahUKEwiTv_ihzP2AAxUBh6QKHW8uBMEQMygBegQIARBU..i&imgrefurl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-sql-tableau-integrating-python-sql-and-tableau%2F&docid=Mt9vJ1l0OL89MM&w=750&h=422&q=python%20sql%20tableau%20olan%20b%C4%B1r%20footgraf&ved=2ahUKEwiTv_ihzP2AAxUBh6QKHW8uBMEQMygBegQIARBU)
-
+[![MasterHead](https://lh4.googleusercontent.com/av8pPRbySPP_GQ_YwALzsOMVw3fQKN3vh_sJRuc4O8AZdbYpFJmJ9cGOkdaKHLuLMPGdoG0Iimv_r5i-50wT7UtY7HAO2uGg24fRVknKse_VtMWLVwQTLSjUScemKrXJEzImDttWkyE)
 <h1 align="center">Hi 👋, I'm Başar Yıldırım</h1>
 <h3 align="center">A passionate Data Scientist from Türkiye</h3>
 
