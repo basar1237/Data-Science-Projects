@@ -1,5 +1,4 @@
-[![MasterHead](https://lh4.googleusercontent.com/av8pPRbySPP_GQ_YwALzsOMVw3fQKN3vh_sJRuc4O8AZdbYpFJmJ9cGOkdaKHLuLMPGdoG0Iimv_r5i-50wT7UtY7HAO2uGg24fRVknKse_VtMWLVwQTLSjUScemKrXJEzImDttWkyE)
-<h1 align="center">Hi 👋, I'm Başar Yıldırım</h1>
+ <h1 align="center">Hi 👋, I'm Başar Yıldırım</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 - 🌱 I’m currently learning **C#, MSSQL, ASP.Net CORE**
