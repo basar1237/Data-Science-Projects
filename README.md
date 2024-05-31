@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Başar Yıldırım</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **C#, MSSQL, ASP.Net CORE**
+- 🌱 I’m currently learning **C#, MSSQL, ASP.NET CORE**
 
 - 📫 How to reach me **basaryldrm1237@gmail.com**
 
