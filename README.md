@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Başar Yıldırım</h1>
 <h3 align="center">A passionate Data Scientist from Türkiye</h3>
 
-- 🌱 I’m currently learning **Python,SQLite,Tableau**
+- 🌱 I’m currently learning **C#,MSSQL,ASP.Net CORE**
 
 - 📫 How to reach me **basaryldrm1237@gmail.com**
 
